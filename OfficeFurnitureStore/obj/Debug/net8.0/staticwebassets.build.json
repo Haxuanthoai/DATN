@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DRxMiG4/vGqYsBSZtSazbQip9X52UBSlAjzMpduLPQo=",
+  "Hash": "gG4Ex1b9TqjCTgI+5wZ8Z2VVwpsnkAqKjtAQYieUPDs=",
   "Source": "OfficeFurnitureStore",
   "BasePath": "_content/OfficeFurnitureStore",
   "Mode": "Default",
@@ -1708,6 +1708,25 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img.jpg"
     },
     {
+      "Identity": "D:\\Đồ án tốt nghiệp\\K21CNT2-HaXuanThoai-2110900039-DATN\\OfficeFurnitureStore\\wwwroot\\images\\avatar.jpg",
+      "SourceId": "OfficeFurnitureStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Đồ án tốt nghiệp\\K21CNT2-HaXuanThoai-2110900039-DATN\\OfficeFurnitureStore\\wwwroot\\",
+      "BasePath": "_content/OfficeFurnitureStore",
+      "RelativePath": "images/avatar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatar.jpg"
+    },
+    {
       "Identity": "D:\\Đồ án tốt nghiệp\\K21CNT2-HaXuanThoai-2110900039-DATN\\OfficeFurnitureStore\\wwwroot\\images\\b1.jpg",
       "SourceId": "OfficeFurnitureStore",
       "SourceType": "Discovered",
@@ -1915,6 +1934,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\g6.jpg"
+    },
+    {
+      "Identity": "D:\\Đồ án tốt nghiệp\\K21CNT2-HaXuanThoai-2110900039-DATN\\OfficeFurnitureStore\\wwwroot\\images\\logo.jpg",
+      "SourceId": "OfficeFurnitureStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Đồ án tốt nghiệp\\K21CNT2-HaXuanThoai-2110900039-DATN\\OfficeFurnitureStore\\wwwroot\\",
+      "BasePath": "_content/OfficeFurnitureStore",
+      "RelativePath": "images/logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
       "Identity": "D:\\Đồ án tốt nghiệp\\K21CNT2-HaXuanThoai-2110900039-DATN\\OfficeFurnitureStore\\wwwroot\\images\\s1.jpg",
